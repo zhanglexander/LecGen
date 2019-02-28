@@ -1,0 +1,2 @@
+# LecGen
+Lecture Slide Generator
