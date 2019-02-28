@@ -1,0 +1,42 @@
+# Outputs
+build/
+build_*/
+build-*/
+dist/
+_dpsim.pyd
+_dpsim.pdb
+.pytest_cache/
+
+# Folders
+Libraries/
+Results/
+Logs/
+VisualStudio/
+
+# IDEs
+cmake-build-debug/
+.idea/
+.vs/
+*.json
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# Mac
+__MACOSX
+.DS_Store
+
+# Python
+*.pyc
+.cache/
+__pycache__/
+.eggs/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Auto-generated
+Documentation/README.md
