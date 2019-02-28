@@ -3,7 +3,7 @@ Lecture Slide Generator
 
 ## Motivation
 
-* this program intended to extract frames from video that may be slides.
+* this program was intended to extract frames from video that may be slides.
 
 ## Feature
 
